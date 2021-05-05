@@ -9,6 +9,6 @@ chmod +x timeWEBaccess
 
 example:
 
-$./timeEst www.facebook.com
+$./timeEst.sh www.facebook.com
 
 
